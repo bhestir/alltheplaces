@@ -92,3 +92,11 @@ ENV/
 .idea
 
 .DS_Store
+locations/spiders/arbys.py
+locations/spiders/jamba_juice.py
+locations/spiders/lagenovesa.py
+locations/spiders/larosas.py
+locations/spiders/riteaid.py
+locations/spiders/tjmaxx.py
+locations/spiders/wawa.py
+
